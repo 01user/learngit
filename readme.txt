@@ -6,3 +6,4 @@ branch test.
 Creating a branch is quickly123.
 no ff merge.
 1
+2
