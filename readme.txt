@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 branch test.
 Creating a branch is quickly123.
+no ff merge.
